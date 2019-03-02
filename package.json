@@ -1,0 +1,24 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "A graphql server implementation and practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Graphql",
+    "nodejs",
+    "Apollo",
+    "Graphql",
+    "server"
+  ],
+  "author": "Sateesh M",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.4.8",
+    "express": "^4.16.4",
+    "graphql": "^14.1.1",
+    "mongoose": "^5.4.16"
+  }
+}
